@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/invoZone/static/css/main.230fb89f.css",
+    "main.js": "/invoZone/static/js/main.1af177f4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/invoZone/static/js/787.28cb0dcd.chunk.js",
+    "static/media/heroImg1.webp": "/invoZone/static/media/heroImg1.f39b25c387f0a91691ec.webp",
+    "static/media/icon8.svg": "/invoZone/static/media/icon8.8c4e913b27b5fbb6b122d6bbc3058798.svg",
+    "static/media/2icon5.svg": "/invoZone/static/media/2icon5.e0b25a0a104ac39e185ef0d011ca8d64.svg",
+    "static/media/icon6.svg": "/invoZone/static/media/icon6.4107a2ba3a81d4987c4da32227acba92.svg",
+    "static/media/2icon3.svg": "/invoZone/static/media/2icon3.822a52d5ecb3fca0a4324e237e43b1af.svg",
+    "static/media/3icon4.svg": "/invoZone/static/media/3icon4.e76055bfa275c38e6fc45cdc182da894.svg",
+    "static/media/icon10.svg": "/invoZone/static/media/icon10.fa61fae1130678a131f1abe0c8f5362c.svg",
+    "static/media/HeroBackgroundimg.svg": "/invoZone/static/media/HeroBackgroundimg.99fd509d79b9583ceb21.svg",
+    "static/media/uiux.svg": "/invoZone/static/media/uiux.729f3fcdc41b1b0859d3a89f197beb08.svg",
+    "static/media/icon9.svg": "/invoZone/static/media/icon9.1f355ff145a1c514fdf9dc9f75bac08d.svg",
+    "static/media/icon5.svg": "/invoZone/static/media/icon5.a4acd3db7e173cfbc6323c96d0e8c398.svg",
+    "static/media/3icon3.svg": "/invoZone/static/media/3icon3.8bc025f0b15a71853cea6ab353d0d72e.svg",
+    "static/media/ecommerceicon2.svg": "/invoZone/static/media/ecommerceicon2.d6f3bcb4571b787820095c2953980b49.svg",
+    "static/media/icon3.svg": "/invoZone/static/media/icon3.6724449fb5e67b9f1de530b66d22c7be.svg",
+    "static/media/icon1-3.svg": "/invoZone/static/media/icon1-3.694864239301b87b68025ac7527d4b73.svg",
+    "static/media/3icon1.svg": "/invoZone/static/media/3icon1.bad2721e62de594006f585b877d0ad07.svg",
+    "static/media/InvoZone_Logo.webp": "/invoZone/static/media/InvoZone_Logo.1bec7f5f3679daa63b4a.webp",
+    "static/media/2icon2.svg": "/invoZone/static/media/2icon2.6c22774b60713bca8190a36a23a5d85f.svg",
+    "static/media/2icon4.svg": "/invoZone/static/media/2icon4.6c22774b60713bca8190a36a23a5d85f.svg",
+    "static/media/icon4.svg": "/invoZone/static/media/icon4.517387fa5740a856db2569f48aa32607.svg",
+    "index.html": "/invoZone/index.html",
+    "static/media/NavIcon.svg": "/invoZone/static/media/NavIcon.27c49128156891d28b6305f401c30063.svg",
+    "main.230fb89f.css.map": "/invoZone/static/css/main.230fb89f.css.map",
+    "main.1af177f4.js.map": "/invoZone/static/js/main.1af177f4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/invoZone/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.230fb89f.css",
+    "static/js/main.1af177f4.js"
+  ]
+}
